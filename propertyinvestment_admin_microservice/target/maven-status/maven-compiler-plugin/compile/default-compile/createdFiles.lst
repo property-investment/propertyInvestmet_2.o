@@ -1,0 +1,8 @@
+com\feuji\CorseController.class
+com\feuji\CorseController$1.class
+com\feuji\propertyInvestment\controller\AdminController.class
+com\feuji\propertyInvestment\repository\AdminRepositary.class
+com\feuji\propertyInvestment\serviceImplementation\AdminServiceImpl.class
+com\feuji\PropertyinvestmentAdminMicroserviceApplication.class
+com\feuji\propertyInvestment\service\AdminService.class
+com\feuji\util\EntityUtil.class

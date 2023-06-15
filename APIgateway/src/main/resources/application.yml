@@ -1,0 +1,36 @@
+server:
+  port: 8084
+
+spring:
+  application:
+    name: api-gateway
+ 
+  cloud:
+    gateway:
+      routes:
+      - id: customer-service
+        uri: 
+          lb://customer-service
+        predicates:
+        - Path=/api/customer/**
+        
+      - id: order-service
+        uri: 
+          lb://order-service
+        predicates:
+        - Path=/api/order/**
+        
+      - id: property-service
+        uri: 
+          lb://property-service
+        predicates:
+        - Path=/api/property/**
+       
+      - id: admin-service
+        uri: 
+          lb://admin-service
+        predicates:
+        - Path=/api/admin/**
+        
+      
+      

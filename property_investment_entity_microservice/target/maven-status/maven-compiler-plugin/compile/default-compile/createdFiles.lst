@@ -1,0 +1,14 @@
+com\feuji\propertyinvestment\entity\PropertyOrder$PropertyOrderBuilder.class
+com\feuji\PropertyInvestmentEntitymcMiroservicesApplication.class
+com\feuji\propertyinvestment\entity\PropertyLocation.class
+com\feuji\propertyinvestment\entity\PropertyOrder.class
+com\feuji\propertyinvestment\entity\CustomerLocation$CustomerLocationBuilder.class
+com\feuji\propertyinvestment\entity\Property.class
+com\feuji\propertyinvestment\entity\PropertyLocation$PropertyLocationBuilder.class
+com\feuji\propertyinvestment\entity\Property$PropertyBuilder.class
+com\feuji\propertyinvestment\entity\CustomerLocation.class
+com\feuji\propertyinvestment\entity\Admin$AdminBuilder.class
+com\feuji\propertyinvestment\entity\Customer.class
+com\feuji\propertyinvestment\entity\Admin.class
+com\feuji\util\EntityUtil.class
+com\feuji\propertyinvestment\entity\Customer$CustomerBuilder.class
